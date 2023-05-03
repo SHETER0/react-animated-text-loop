@@ -5,13 +5,13 @@ The `react-animated-text-loop` component is a React component that animates a lo
 
 - One: Animates the characters by changing the color and position of each character alternatively. 
 
-<video src="https://user-images.githubusercontent.com/47436766/236008608-b38001f3-6d07-4c0d-bdc6-59ac2615acb9.mp4" autoplay  loop controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/47436766/236008608-b38001f3-6d07-4c0d-bdc6-59ac2615acb9.mp4" autoplay  loop  style="max-width: 730px;">
 </video>
 
 - Two: Animates the characters by moving them up and down in a loop.
 
 
-<video src="https://user-images.githubusercontent.com/47436766/236008688-30d78472-a199-4c04-a92c-40c4228f9b38.mp4" autoplay  loop controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/47436766/236008688-30d78472-a199-4c04-a92c-40c4228f9b38.mp4" autoplay  loop style="max-width: 730px;">
 </video>
 
 
